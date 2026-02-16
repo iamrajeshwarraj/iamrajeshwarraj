@@ -55,15 +55,15 @@
 
 <div align="center">
   <a href="https://github.com/iamrajeshwarraj">
-    <img src="https://github-readme-stats.vercel.app/api?username=iamrajeshwarraj&show_icons=true&theme=radical&count_private=true&hide_border=true" width="48%" alt="GitHub Stats" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=iamrajeshwarraj&show_icons=true&theme=radical&count_private=true&hide_border=true" width="48%" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/iamrajeshwarraj">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamrajeshwarraj&layout=compact&theme=radical&hide_border=true" width="40%" alt="Top Languages" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iamrajeshwarraj&layout=compact&theme=radical&hide_border=true" width="40%" alt="Top Languages" />
   </a>
 </div>
 
 <div align="center"> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamrajeshwarraj&theme=radical&hide_border=true" width="89%" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=iamrajeshwarraj&theme=radical&hide_border=true" width="89%" alt="GitHub Streak" />
 </div>
 
 ---
