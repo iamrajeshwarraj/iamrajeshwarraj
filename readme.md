@@ -3,14 +3,14 @@
 -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Nexus&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Lover%20+%20Developer&descAlignY=51&descAlign=62" width="100%" alt="Nexus Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Nexus&fontSize=90&animation=fadeIn&fontAlignY=38" width="100%" alt="Nexus Header" />
   
   # Hello, I'm Nexus 👋
   
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F71E59&width=435&lines=Lover;Full+Stack+Developer;Expressing+love+in+code...;Python+%26+JS+Enthusiast" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F71E59&center=true&vCenter=true&width=435&lines=Lover;Full+Stack+Developer;Expressing+love+in+code...;Python+%26+JS+Enthusiast" alt="Typing SVG" /></a>
 
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/iamrajeshwarraj)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/iamrajeshwarraj)
+  [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/whyisnexus)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/verdammtsein)
 </div>
 
 ---
@@ -19,9 +19,9 @@
 
 > "I just want to express my heart to her in every language I can — so she never has to question what I feel."
 
-- 🔭 I’m currently building things with **Code & Passion**
-- 🌱 I’m constantly learning **To love more deeply**
-- 👯 I’m always open to collaborating on **Life's journey**
+- 🔭 Building things with **Code & Passion**
+- 🌱 Learning **To love more deeply**
+- 👯 Always open to collaborating on **Life's journey**
 - 💬 Happy to chat about **Love, JS, or Python**
 - 📫 You can reach me at: **[rajeshwarraj.bly20@gmail.com](mailto:rajeshwarraj.bly20@gmail.com)**
 - ⚡ **I code to connect.**
